@@ -16,10 +16,7 @@ Adds a Docking Station class, which is a subclass of Connectable CI.
 ## Cookbook
 
 XML:
-* something
-
-PHP:
-* something
+* add a new class
 
 
 
