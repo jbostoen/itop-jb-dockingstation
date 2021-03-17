@@ -17,6 +17,7 @@ Dict::Add('EN US', 'English', 'English', array(
     //	'SomeClass/Some:Fieldset' => 'Fieldset',
 	
 	'Class:DockingStation' => 'Docking Station',
+	'Class:Model/Attribute:type/Value:DockingStation' => 'Docking Station',
 	
 	'DockingStation:BaseInfo' => 'Base info',
 	'DockingStation:MoreInfo' => 'More info',

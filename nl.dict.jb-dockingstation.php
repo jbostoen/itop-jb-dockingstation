@@ -17,6 +17,7 @@ Dict::Add('NL NL', 'Dutch', 'Nederlands', array(
     //	'SomeClass/Some:Fieldset' => 'Fieldset',
 	
 	'Class:DockingStation' => 'Docking Station',
+	'Class:Model/Attribute:type/Value:DockingStation' => 'Docking Station',
 	
 	'DockingStation:BaseInfo' => 'Globale informatie',
 	'DockingStation:MoreInfo' => 'Meer informatie',
