@@ -18,5 +18,6 @@ Adds a Docking Station class, which is a subclass of Connectable CI.
 XML:
 * add a new class
 
-
+## Credits
+* Icon: https://www.flaticon.com/free-icon/usb-hub_2004528 - Flaticon License. Free for personal and commercial purpose with attribution. Attribution: Nikita Golubev
 
